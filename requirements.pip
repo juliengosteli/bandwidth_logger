@@ -1,0 +1,2 @@
+requests
+-e git+https://github.com/alealmuna/speedtest-cli.git@extend-functionality-as-module#egg=speedtest-cli

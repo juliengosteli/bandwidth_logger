@@ -1,0 +1,6 @@
+[server]
+api_url = http://sensa.amucan.com/api
+api_token = AJI9_qP-lGLI6a1Brwlsr4
+[device]
+device_id = 566fcf446861772056000000
+datastreams = [{'type': 'MBPS', 'id': '566fcf116861772046010000'},{'type': 'TIMEDELTA', 'id': '566fcff36861772046030000'},{'type': 'MBPS', 'id': '566fcfa86861772046020000'}]
