@@ -6,7 +6,7 @@ import requests
 import speedtest_cli
 
 from ast import literal_eval
-from ConfigParser import SafeConfigParser
+from configparser import SafeConfigParser
 
 TEST_SERVERS = {
     'wom': '7631',
